@@ -1,1 +1,2 @@
 c:\users\abraham\documents\visual studio 2012\Projects\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Innova\Documents\GitHub\InnovaWeb_SIC2\proyecto\proyecto\bin\Debug\proyecto.exe.config
